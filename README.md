@@ -13,3 +13,7 @@ First install all the dependencies by running
 
 then run it using the command
 `npm start`
+
+# Demonstration
+
+![Dogs Demo](demonstration.gif)
