@@ -1,6 +1,7 @@
 # Dogs
 Final project of the Complete React Course by Origamid.
-This was a very fun project to work on, it's inspired by Instagram but only for dogs. 
+This was a very fun project to work on, it's inspired by Instagram but only for dogs.
+It's possible to create a new account, to upload and delete photos and to comment on them. 
 
 # Technologies used
 - [Victory](https://github.com/FormidableLabs/victory)
